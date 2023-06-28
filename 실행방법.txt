@@ -1,0 +1,9 @@
+1. 파일을 다운받아 Workspace에 마지막이 GYM_CARRYY-main까지 나오도록하고
+Launch를 누른다.
+
+2. File -> Open projects from file system -> Directory -> 폴더: GYM_CARRYY-main 을
+나오게한후 폴더선택 Finish를 누른다.
+
+3.src -> Build Path -> Configure build path -> Libraries에 Modulpath의 기존의 jar파일
+전부 Remove -> Add External JARs -> 다운받은 파일의 UCanAccess-5.0.1.bin\lib
+의 모든 jar파일 추가 -> Apply and Close
